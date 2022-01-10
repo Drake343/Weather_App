@@ -151,8 +151,7 @@
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:src="@drawable/sunset"
-                        android:tint="#FFCC33"
-                        ></ImageView>
+                        app:tint="#FFCC33"></ImageView>
 
                     <Space
                         android:layout_width="5dp"
@@ -189,7 +188,7 @@
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:src="@drawable/wind"
-                        android:tint="#FFCC33"
+                        android:tint="#13D9F3"
                         ></ImageView>
 
                     <Space
@@ -239,7 +238,7 @@
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:src="@drawable/pressure"
-                        android:tint="#FFCC33"
+                        android:tint="#130F02"
                         ></ImageView>
 
                     <Space
@@ -278,7 +277,7 @@
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:src="@drawable/humidity"
-                        android:tint="#FFCC33"
+                        android:tint="#1935D1"
                         ></ImageView>
 
                     <Space
@@ -316,7 +315,7 @@
                         android:layout_width="25dp"
                         android:layout_height="25dp"
                         android:src="@drawable/info"
-                        android:tint="#FFCC33"
+                        android:tint="#03071E"
                         ></ImageView>
 
                     <Space
